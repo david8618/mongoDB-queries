@@ -1,11 +1,6 @@
 //Restaurants
 //David Diaz
 
-//Canvi a db itacademy (ita)
-use("ita");
-
-//La coleccio s'anomena restaurants
-
 db.restaurants.findOne();
 
 //1 Escriu una consulta per mostrar tots els documents en la col·lecció Restaurants
